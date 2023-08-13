@@ -18,6 +18,14 @@
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@Boostcamp5-CV-16-최『AI』?theme=rule34"/></a>
 </p>
 
+
+<br />
+
+## 🏅 개인(박상필) Wrap-Up Report   
+- [개인 Wrap-Up Report👑](https://drive.google.com/file/d/13oXVJOG8jC7UPOkQi-BnpWV3Q0uNP1Hb/view?usp=drive_link)
+
+<br />
+
 ## Team Members
 
 |                                                                           [김지현](https://github.com/codehyunn)                                                                           |                                                                           [박상필](https://github.com/SangphilPark)                                                                           |                                                                           [오동혁](https://github.com/97DongHyeokOH)                                                                           |                                                                           [이상민](https://github.com/dldltkdals)                                                                           |                                                                           [이태순](https://github.com/LTSGOD)                                                                           |
